@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatenikhsan
+- 👋 Hi, I’m Fatin Hamimah binti Ikhsan
 - 👀 I’m interested in RF and Microwave Engineering
 - 🌱 I’m currently learning antenna, dielectric measurement and resonator sensor
 - 💞️ I’m looking to collaborate on designing RF and Microwave sensor
