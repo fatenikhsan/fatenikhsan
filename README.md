@@ -13,7 +13,7 @@ I am Fatin Hamimah binti Ikhsan, a postgraduate student of Electronic Engineerin
 
 @self
 
-* Canva- design poster, graphical measurement setup
+* Canva- design poster, graphical 
 * Autodesk Tinkercad- using Tinkercad Codeblock to design 3D models
 * Power BI- for data analysis
 
